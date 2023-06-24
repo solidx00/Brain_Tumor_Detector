@@ -5,6 +5,16 @@ Project of Medical desease detection (e.g. Tumor, Cancer, ...).
 - First baseline : CNN model
 - Pre-trained Model: InceptionV3 + fine tuning
 
+## Colab link (GOOD MODEL)
+```bash
+https://colab.research.google.com/drive/1BnY6LyX5M4egtIlYxufLYjVOQM9utoIm?authuser=1#scrollTo=npS5nqG6zHco
+```
+
+## Colab link (OTHER TRIALS)
+```bash
+https://colab.research.google.com/drive/1BnY6LyX5M4egtIlYxufLYjVOQM9utoIm?authuser=1#scrollTo=npS5nqG6zHco
+```
+
 ## Pretrained models
 ### Our Model
 ```bash
