@@ -1,4 +1,4 @@
-# Visual and Perception Project 2022-23
+# Vision and Perception Project 2022-23
 ## Brain_Tumor_Detector
 Project of Medical desease detection (e.g. Tumor, Cancer, ...).
 
