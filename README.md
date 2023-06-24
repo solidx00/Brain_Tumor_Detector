@@ -12,7 +12,7 @@ https://colab.research.google.com/drive/1BnY6LyX5M4egtIlYxufLYjVOQM9utoIm?authus
 
 ## Colab link (OTHER TRIALS)
 ```bash
-https://colab.research.google.com/drive/1BnY6LyX5M4egtIlYxufLYjVOQM9utoIm?authuser=1#scrollTo=npS5nqG6zHco
+[https://colab.research.google.com/drive/1BnY6LyX5M4egtIlYxufLYjVOQM9utoIm?authuser=1#scrollTo=npS5nqG6zHco](https://colab.research.google.com/drive/1z4RzdJfTtXX6AdPM4TMWV1Yn_rKxwb9z?usp=drive_link)
 ```
 
 ## Pretrained models
