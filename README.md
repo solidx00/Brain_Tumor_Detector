@@ -2,5 +2,17 @@
 ## Brain_Tumor_Detector
 Project of Medical desease detection (e.g. Tumor, Cancer, ...).
 
+Implementation: 
+- First baseline : CNN model
+- Pre-trained Model: InceptionV3 + fine tuning
 
-In this project will implemented more baseline for detecting Brain Tumor images.
+### Accuracy Results
+| Our Model   | InceptionV3
+| :---: | :---: |
+| 0.96   | 0.88
+
+### Loss Results
+| Our Model  | InceptionV3
+| :---: | :---: |
+| 0.11   | 0.45 
+
