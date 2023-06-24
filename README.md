@@ -2,9 +2,18 @@
 ## Brain_Tumor_Detector
 Project of Medical desease detection (e.g. Tumor, Cancer, ...).
 
-Implementation: 
 - First baseline : CNN model
 - Pre-trained Model: InceptionV3 + fine tuning
+
+## Pretrained models
+### Our Model
+```bash
+https://drive.google.com/drive/folders/16Minx_KeL9pgm8v5cT_Q4lY08qn4oxBo?usp=sharing
+```
+### InceptionV3
+```bash
+https://drive.google.com/drive/folders/19aQkp5AfOOdE0JPFt0_c1acely6X-sKS?usp=sharing
+```
 
 ### Accuracy Results
 | Our Model   | InceptionV3
