@@ -1,5 +1,4 @@
-# Computer Vision Project 2022-23
-## Brain_Tumor_Detector
+# Brain_Tumor_Detection
 Project of Medical desease detection (e.g. Tumor, Cancer, ...).
 
 - First baseline : CNN model
