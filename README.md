@@ -6,13 +6,12 @@ This repository contains a deep learning approach for detecting brain tumors fro
 
 The primary goal is to classify MRI scans accurately into categories representing the presence or absence of a brain tumor. The project compares the effectiveness of:
 
-A CNN model built and trained from scratch.
+- A CNN model built and trained from scratch.
 
-Fine-tuned pretrained model: InceptionV3.
-
-The models were trained and evaluated on a publicly available MRI dataset on Kaggle consisting of labeled images for brain tumor classification.
+- Fine-tuned pretrained model: InceptionV3.
 
 ### Dataset
+The models were trained and evaluated on a publicly available MRI dataset on Kaggle consisting of labeled images for brain tumor classification.
 ```bash
 [https://drive.google.com/drive/folders/16Minx_KeL9pgm8v5cT_Q4lY08qn4oxBo?usp=sharing](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 ```
