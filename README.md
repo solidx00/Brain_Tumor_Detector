@@ -14,18 +14,18 @@ Fine-tuned pretrained model: InceptionV3.
 
 The models were trained and evaluated on a publicly available MRI dataset consisting of labeled images for brain tumor classification.
 
-## Colab link (GOOD MODEL)
+### Colab link (GOOD MODEL)
 ```bash
 https://colab.research.google.com/drive/1BnY6LyX5M4egtIlYxufLYjVOQM9utoIm?authuser=1#scrollTo=npS5nqG6zHco
 ```
 
-## Colab link (OTHER TRIALS)
+### Colab link (OTHER TRIALS)
 ```bash
 https://colab.research.google.com/drive/1z4RzdJfTtXX6AdPM4TMWV1Yn_rKxwb9z?usp=drive_link
 ```
 
-## Pretrained models
-### Our Model
+### Pretrained models
+### Our CNN Model
 ```bash
 https://drive.google.com/drive/folders/16Minx_KeL9pgm8v5cT_Q4lY08qn4oxBo?usp=sharing
 ```
