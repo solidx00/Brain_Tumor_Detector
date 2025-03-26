@@ -1,8 +1,18 @@
 # Brain_Tumor_Detection
-Project of Medical desease detection (e.g. Tumor, Cancer, ...).
 
-- First baseline : CNN model
-- Pre-trained Model: InceptionV3 + fine tuning
+This repository contains a deep learning approach for detecting brain tumors from MRI images. A custom Convolutional Neural Network (CNN) model was designed and trained from scratch, alongside experiments with the pretrained InceptionV3 model using transfer learning techniques.
+
+## Project Overview
+
+The primary goal is to classify MRI scans accurately into categories representing the presence or absence of a brain tumor. The project compares the effectiveness of:
+
+A CNN model built and trained from scratch.
+
+Fine-tuned pretrained model: InceptionV3.
+
+## Dataset
+
+The models were trained and evaluated on a publicly available MRI dataset consisting of labeled images for brain tumor classification.
 
 ## Colab link (GOOD MODEL)
 ```bash
