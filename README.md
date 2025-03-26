@@ -10,9 +10,12 @@ A CNN model built and trained from scratch.
 
 Fine-tuned pretrained model: InceptionV3.
 
-## Dataset
+The models were trained and evaluated on a publicly available MRI dataset on Kaggle consisting of labeled images for brain tumor classification.
 
-The models were trained and evaluated on a publicly available MRI dataset consisting of labeled images for brain tumor classification.
+### Dataset
+```bash
+[https://drive.google.com/drive/folders/16Minx_KeL9pgm8v5cT_Q4lY08qn4oxBo?usp=sharing](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+```
 
 ## Weights
 
